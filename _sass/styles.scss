@@ -1,0 +1,33 @@
+// Import Core Clean Blog SCSS
+@import "../assets/vendor/startbootstrap-clean-blog/scss/styles.scss";
+
+@import url("https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,400;0,700;0,800;1,400;1,700;1,800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Alegreya+Sans:ital,wght@0,100;0,300;0,400;0,700;0,800;1,100;1,300;1,400;1,700;1,800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Source+Serif+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700;1,900&display=swap");
+
+body,
+header.masthead .post-heading .meta,
+.tooltip {
+    font-family: "Lora", -apple-system, BlinkMacSystemFont, "Segoe UI",
+        Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+        "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !important;
+}
+
+#mainNav,
+h1, h2, h3, h4, h5, h6,
+.h1, .h2, .h3, .h4, .h5, .h6,
+header.masthead .page-heading .subheading, header.masthead .site-heading .subheading,
+header.masthead .post-heading .subheading {
+    font-family: "Open Sans", -apple-system, BlinkMacSystemFont,
+        "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+        "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !important;
+}
+
+// .page-heading h1,
+// .post-heading h1 {
+//     font-weight: 300;
+// }
+
+// #mainNav .navbar-brand {
+//     font-weight: 800;
+// }
