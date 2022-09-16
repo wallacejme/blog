@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
+featured: true
+tags: [test, jekyll, blog]
 date:   2022-09-11 19:38:31 -0300
 categories: jekyll update
 ---
