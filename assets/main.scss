@@ -108,3 +108,25 @@ td.rouge-code pre {
     padding-top: 1rem;
     padding-bottom: 1.5rem;
 }
+
+.social-media-list {
+    text-align: center;
+}
+
+.social-media-list li {
+    display: inline-block;
+    padding: 0px 7px;
+}
+
+.username {
+    display: none;
+}
+
+a:hover .svg-icon {
+    fill: $grey-color-dark;
+}
+
+.footer-copyright {
+    text-align: center;
+    font-size: $small-font-size;
+}

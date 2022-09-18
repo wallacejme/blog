@@ -1,0 +1,15 @@
+<footer class="site-footer h-card">
+    <data class="u-url" href="{{ "/" | relative_url }}"></data>
+    
+    <div class="wrapper">
+        <div class="footer-col-wrapper">
+            {%- include social.html -%}
+        </div>
+        {%- if site.copyright -%}
+        <div class="footer-col-wrapper footer-copyright">
+            &copy; {{ 'now' | date: "%Y" }} {{ site.copyright | escape }}. All rights reserved.
+        </div>
+        {%- endif -%}
+    </div>
+
+</footer>
