@@ -36,6 +36,10 @@ $monospaced-font-weight-bold: 700;
 
 @import "{{ site.theme }}";
 
+.post-meta {
+    text-transform: uppercase;
+}
+
 code {
     font-family: $monospaced-font-family;
     font-weight: $monospaced-font-weight-normal;
@@ -79,9 +83,10 @@ td.rouge-code pre {
 
 pre.lineno {
     text-align: right;
-    padding-right: 15px;
+    padding-right: 10px;
     background-color: #e0e0e0;
     border-radius: 0%;
+    border-right: 2px solid #ccc;
 }
 
 td.rouge-code pre {
