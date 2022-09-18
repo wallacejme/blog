@@ -36,6 +36,15 @@ $monospaced-font-weight-bold: 700;
 
 @import "{{ site.theme }}";
 
+.site-title,
+.footer-heading {
+    font-weight: $font-weight-xbold;
+}
+
+.site-title {
+    font-size: 1.3rem;
+}
+
 .post-meta {
     text-transform: uppercase;
 }
