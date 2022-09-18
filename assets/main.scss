@@ -45,6 +45,11 @@ $monospaced-font-weight-bold: 700;
     font-size: 1.3rem;
 }
 
+h3 .post-link {
+    color: $text-color;
+    font-weight: $font-weight-bold;
+}
+
 .post-meta {
     text-transform: uppercase;
 }
@@ -118,7 +123,7 @@ td.rouge-code pre {
     padding: 0px 7px;
 }
 
-.username {
+.social-media-list li a span {
     display: none;
 }
 
