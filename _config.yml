@@ -19,53 +19,34 @@
 # in the templates via {{ site.myvariable }}.
 
 title: wallace.blog
-# email: your-email@example.com
+author: Wallace Medeiros
+#email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   A personal blog.
-baseurl: "/blog"
-# the subpath of your site, e.g. /blog
-url: "https://wallacemedeiros.com" # the base hostname & protocol for your site, e.g. http://example.com
-author: Wallace Medeiros
-twitter: https://twitter.com/WallaceJMe
-github:  https://github.com/wallacejme
-# linkedin_username: wallacejme
-linkedin: https://linkedin.com/in/wallacejme
-instagram: https://instagram.com/wallacejme
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "https://walllacemedeiros.com" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: WallaceJMe
+github_username:  wallacejme
+linkedin_username: wallacejme
+instagram_username: wallacejme
 
 # Build settings
-# remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
-remote_theme: ahmadajmi/type
+theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-paginate
-  - jekyll/tagging
+
+show_excerpts: true
+lang: pt-BR
 
 markdown: kramdown
-permalink: pretty
-paginate: 60
+kramdown:
+  highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
 
-sass:
-  style: compressed
-
-include:
-  - _pages
-
-exclude:
-  - vendor
-  - Gemfile
-  - Gemfile.lock
-
-tag_page_dir:         tag
-tag_page_layout:      tag_page
-tag_permalink_style:  pretty
-
-# Pages path
-defaults:
-  - scope:
-      path: '_pages'
-    values:
-      permalink: /:basename:output_ext
-
+disqus:
+  shortname: wallacemedeiros
 
 # Exclude from processing.
 # The following items will not be processed, by default.
