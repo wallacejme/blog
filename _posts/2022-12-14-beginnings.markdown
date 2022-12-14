@@ -2,8 +2,7 @@
 layout: post
 title:  "Beginnings"
 date:   2022-12-14 22:00:00 -0300
-categories:
-  - general
+categories: general
 author: Wallace Medeiros
 ---
 Creating a blog has populated my mind since it was cool. My habit of postponing tasks brought me here, starting a blog when they're no longer read.
