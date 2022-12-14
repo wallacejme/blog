@@ -12,13 +12,13 @@ Creating a blog has populated my mind since it was cool. My habit of postponing 
 
 But I'm also stubborn. I'll do it anyway.
 
-Anyway, my name's Wallace, a 31yo Brazilian software developer with 6 years of professional experience working with mostly backend development.
+Anyway, my name's Wallace and I'm a 31yo Brazilian software developer with 6 years of professional experience working with mostly backend development.
 
 I also have some knowledge with building and consuming RESTful APIs, Android development and some frontend frameworks.
 
 Recently, I decided to became a decent full-stack developer, then I elected some languages/frameworks/tools to focus on:
 
-- Frontend: [Flutter](https://github.com/flutter/flutter) + Native Android
+- Frontend: [Flutter](https://github.com/flutter/flutter) + Native [Android](https://developer.android.com/)
 - Backend: [Ktor](https://github.com/ktorio/ktor) (or [Express](https://github.com/expressjs/express), not sure) + [PostgreSQL](https://github.com/postgres/postgres)
 - Some other complementary tools, like Docker.
 
