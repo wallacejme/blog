@@ -25,4 +25,5 @@ That said, I intend to log my progress here.
 So, if you're interested on reading about Programming or related stuff, you might be interested on showing up here later.
 
 Best regards.
+
 See you soon.
