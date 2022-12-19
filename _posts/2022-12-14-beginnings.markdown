@@ -17,8 +17,8 @@ I also have some knowledge with building and consuming RESTful APIs, Android dev
 
 Recently, I decided to became a decent full-stack developer, then I elected some languages/frameworks/tools to focus on:
 
-- Frontend: [Flutter](https://github.com/flutter/flutter) + Native [Android](https://developer.android.com/)
-- Backend: [Ktor](https://github.com/ktorio/ktor) (or [Express](https://github.com/expressjs/express), not sure) + [PostgreSQL](https://github.com/postgres/postgres)
+- Frontend: [Flutter](https://github.com/flutter/flutter) or [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform.html) + Native [Android](https://developer.android.com/).
+- Backend: [Ktor](https://github.com/ktorio/ktor) + [PostgreSQL](https://github.com/postgres/postgres).
 - Some other complementary tools, like [Docker](https://www.docker.com/).
 
 That said, I intend to log my progress here.
