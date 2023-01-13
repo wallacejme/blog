@@ -4,15 +4,17 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi!
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+My name is Wallace, and this is my technical blog.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I created this as a way to exercise my expressiveness regarding professional subjects.
+Here, I'll share some of my thoughts and discoveries thorought my life as a software developer and former Computer Science student.
 
+I've recently started a journey towards finding my place into this vast and complex world. So many technologies, so many frameworks and stacks.
 
-[jekyll-organization]: https://github.com/jekyll
+**_Where will I fit in?_** — there is the question. I might have some ideias, but a lot remains to be enlightened.
+
+Some of my progress, decisions and choices will be shown here. So, stick around if you're interested. You can [add my RSS feed]([url](https://wallacemedeiros.com/blog/feed.xml)) to you favorite feed reader to keep yourself up-to-date.
+
+You can find more about me at [my website](http://wallacemedeiros.com). **Important note:** I'm Brazilian, so some of my stuff might be in Portuguese.
